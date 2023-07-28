@@ -1,8 +1,7 @@
-
-
-![<a href="https://storyset.com/nature">Nature illustrations by Storyset</a>](./Journey.gif)
-
 <p>Welcome to my page 👋! My name is Sarah, and I am a recent computer science graduate. I’ve used this space as a repository for my projects, course work, and to utilize version control. I am looking for opportunities to learn, contribute, and collaborate on open-source projects to enhance my skill set and make the world a better place.</p>
+
+ <center><img src="Journey.gif" alt="Nature illustrations by Storyset" width="400" height="400"> </center>
+
 
 ### Skills 
 <p align="left">
