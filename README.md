@@ -1,6 +1,6 @@
  ### <p align="center">WELCOME👋</p>
  <hr />
- <p align="center"><img src="Journey.gif" alt="Nature illustrations by Storyset" width="400" height="400"> </p>
+ <p align="center"><img src="Journey.gif" alt="Nature illustrations by Storyset" width="325" height="325"> </p>
 
 <p>My name is Sarah, and I am a recent computer science graduate. I’ve used this space as a repository for my projects, course work, and to utilize version control. I am looking for opportunities to learn, contribute, and collaborate on open-source projects to enhance my skill set and make the world a better place.</p>
 
@@ -46,7 +46,9 @@
 
  <span style="font-size:30px">🐈🏋️📷🎨🧶🎧🌱🌌</span></li>
 </ul>
-<hr />
+<hr style="height:2px" />
+
+
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/Syptr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sjodrey" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
