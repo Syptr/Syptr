@@ -2,11 +2,11 @@
  <hr />
  <p align="center"><img src="Journey.gif" alt="Nature illustrations by Storyset" width="325" height="325"> </p>
 
-<p>&emsp; My name is Sarah, and I am a recent computer science graduate. I’ve used this space as a repository for my projects, course work, and to utilize version control. I am looking for opportunities to learn, contribute, and collaborate on open-source projects to enhance my skill set and make the world a better place.</p>
+<p align="center">&emsp; My name is Sarah, and I am a recent computer science graduate. I’ve used this space as a repository for my projects, course work, and to utilize version control. I am looking for opportunities to learn, contribute, and collaborate on open-source projects to enhance my skill set and make the world a better place.</p>
 
 <hr />
 
-### Skills / Experience
+### <p align="center"> Skills / Experience </p>
 <p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -34,8 +34,8 @@
 
 
 
-### About Me
-<p>Feel free to read on if you’d like to learn a little more about who I am and how I got here.</p>
+### <p align="center">About Me
+<p align="center">Feel free to read on if you’d like to learn a little more about who I am and how I got here.</p>
 <ul>
 <li>💻 Prior to writing my first line of code in 2021, I was on the path to becoming a Community Health Educator with a focus in Psychology. Research topics included sleep hygiene, nutrition, women’s health, mental health, and strength training. These are all fields of study I am still interested in and would love the opportunity to work on projects related to this content.</li><br />
 <li>📋 I’ve worked extensively in customer service, food service, and support based roles while attending school. This has provided a unique perspective when it comes to creating customer experience use cases.</li><br />
@@ -46,9 +46,10 @@
 
  🐈🏋️📷🎨🧶🎧🌱🌌</li>
 </ul>
+</p>
 <hr style="height:2px" />
 
 
-### Socials
+### <p align="center"> Socials </p>
                   
-<p align="left"> <a href="https://www.github.com/Syptr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sjodrey" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/Syptr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sjodrey" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
