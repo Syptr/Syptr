@@ -7,7 +7,7 @@
 <hr />
 
 ### Skills / Experience
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cplusplus" width="36" height="36" /> </a> 
@@ -44,7 +44,7 @@
 <li>🗻 Hiking also exhibits a notable crossover to development, especially in terms of how one reacts when faced with a challenge. There will always be options. You can persist, take a break, seek alternate routes, ask for help, or even turn back. No matter which you choose, all offer valuable lessons. Yet, there’s still nothing quite like the feeling when you reach the summit or finally solve that problem.</li><br />
 <li>Also:
 
- <span style="font-size:30px">🐈🏋️📷🎨🧶🎧🌱🌌</span></li>
+ 🐈🏋️📷🎨🧶🎧🌱🌌</li>
 </ul>
 <hr style="height:2px" />
 
