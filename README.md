@@ -2,7 +2,7 @@
  <hr />
  <p align="center"><img src="Journey.gif" alt="Nature illustrations by Storyset" width="325" height="325"> </p>
 
-<p align="center">&emsp; My name is Sarah, and I am a recent computer science graduate. I’ve used this space as a repository for my projects, course work, and to utilize version control. I am looking for opportunities to learn, contribute, and collaborate on open-source projects to enhance my skill set and make the world a better place.</p>
+<p align="center">&emsp; My name is Sarah, and I am a recent computer science graduate. I use this space as a repository for my projects, course work, and to utilize version control. I am looking for opportunities to learn, contribute, and collaborate on open-source projects to enhance my skill set and make the world a better place.</p>
 
 <hr />
 
